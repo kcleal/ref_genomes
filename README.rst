@@ -1,6 +1,6 @@
 Reference genomes
 =================
-See Releases page for a a collection of popular reference genomes that have been bgzip'ed and indexed using samtools.
+See Releases page for a collection of popular reference genomes that have been bgzip'ed and indexed using samtools.
 
 
 Human
